@@ -1,0 +1,80 @@
+﻿<Window x:Class="FoodToOrderAppWPF.EditRestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoodToOrderAppWPF"
+        mc:Ignorable="d"
+        Title="EditRestWindow" Height="450" Width="800" Background="LightGray">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Franklin Gothic"/>
+            <Setter Property="Foreground" Value="RoyalBlue"/>
+        </Style>
+        <ImageBrush x:Key="watermarka" ImageSource="Images\dishname.png" AlignmentX="Left" Stretch="None" />
+        <ImageBrush x:Key="watermarkb" ImageSource="Images\resopen.png" AlignmentX="Left" Stretch="None" />
+        <ImageBrush x:Key="watermarkc" ImageSource="Images\watermark.png" AlignmentX="Left" Stretch="None" />
+
+
+    </Window.Resources>
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="0" Padding="10" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" >EDIT</TextBlock>
+
+
+            <StackPanel Grid.Row="1">
+                <TextBox Margin="10" Padding="10"  Name="EditRidTextbox" TextChanged="OnTextBoxTextChanged" Width="153" Height="40" >
+                    <TextBox.Style>
+                        <Style TargetType="TextBox">
+                            <Setter Property="Background" Value="{StaticResource watermarkc}"></Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsFocused" Value="True">
+                                    <Setter Property="Background" Value="White" />
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBox.Style>
+                </TextBox>
+                <TextBox Margin="10" Padding="10"  Name="EditRestTextbox" TextChanged="OnTextBoxTextChanged" Width="184" Height="40" >
+                    <TextBox.Style>
+                        <Style TargetType="TextBox">
+                            <Setter Property="Background" Value="{StaticResource watermarkb}"></Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsFocused" Value="True">
+                                    <Setter Property="Background" Value="White" />
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBox.Style>
+                </TextBox>
+
+                <CheckBox Margin="5" Name="checkboxrest" HorizontalAlignment="Center" FontSize="16" Content="Is it Open ?"></CheckBox>
+            </StackPanel>
+            <Button Margin="10" Content="Edit" Click="EditRest" Grid.Row="2" Style="{StaticResource SubmitButtonStyle}">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="6"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Margin="10" Content="Back" Click="AdminOptions" Grid.Row="3" Style="{StaticResource SubmitButtonStyle}">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="6"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </Grid>
+    </Grid>
+</Window>

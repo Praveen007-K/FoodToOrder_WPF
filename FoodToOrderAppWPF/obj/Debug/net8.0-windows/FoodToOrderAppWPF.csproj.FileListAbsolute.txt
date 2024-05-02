@@ -1,0 +1,874 @@
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\Desktop\13 240pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\Desktop\13 710pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\Desktop\14 315pm view\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\Desktop\14 458pm del 2\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.AssemblyReference.cache
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\BillWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\CountIncrementer.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.cache
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF_MarkupCompile.lref
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.deps.json
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.exe
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.exe
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.deps.json
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.runtimeconfig.json
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\DatabaseFoodToOrder.pdb
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DeleteRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\DishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Login.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\RestaurantWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\test.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewDishWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ViewRestWindow.baml
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.g.resources
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfoInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.AssemblyInfo.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOr.922E5E52.Up2Date
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\refint\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.pdb
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\FoodToOrderAppWPF.genruntimeconfig.cache
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\ref\FoodToOrderAppWPF.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\EmailValidation.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Praveen K Nair\Desktop\14 804pm User&admin\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\EmailValidation.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddDishWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddRestWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\EmailValidation.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditDishWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditRestWindow.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddDishWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\AddRestWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\Controls\EmailValidation.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditDishWindow.baml
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\EditRestWindow.baml

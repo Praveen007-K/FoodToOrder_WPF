@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddDishWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BillWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\CountIncrementer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Controls\EmailValidation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteDishWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteRestWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DishWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditDishWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditRestWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RestaurantWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewDishWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewRestWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddDishWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BillWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddRestWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\CountIncrementer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\EmailValidation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteDishWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteRestWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DishWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditDishWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditRestWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RestaurantWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewDishWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewRestWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

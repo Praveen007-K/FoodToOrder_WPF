@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace FoodToOrderAppWPF
+{
+    /// <summary>
+    /// Interaction logic for test.xaml
+    /// </summary>
+    public partial class test : Window
+    {
+        public test()
+        {
+            InitializeComponent();
+            FoodToOrderWpfPraveenContext nc = new FoodToOrderWpfPraveenContext();// 2nd Step
+            List<Dish> dishes = nc.Dishes.ToList<Dish>();
+            EFCore6_Data_Grid.ItemsSource = dishes;
+        }
+    }
+}

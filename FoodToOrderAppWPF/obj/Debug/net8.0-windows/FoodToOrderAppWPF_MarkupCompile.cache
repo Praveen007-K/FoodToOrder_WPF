@@ -1,0 +1,20 @@
+﻿FoodToOrderAppWPF
+
+
+winexe
+C#
+.cs
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\obj\Debug\net8.0-windows\
+FoodToOrderAppWPF
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Praveen K Nair\source\repos\FoodToOrderAppWPF\App.xaml
+161504688645
+
+19906169768
+256563882744
+AddDishWindow.xaml;AddRestWindow.xaml;AdminWindow.xaml;BillWindow.xaml;Controls\CountIncrementer.xaml;Controls\EmailValidation.xaml;DeleteDishWindow.xaml;DeleteRestWindow.xaml;DishWindow.xaml;EditDishWindow.xaml;EditRestWindow.xaml;Login.xaml;RestaurantWindow.xaml;test.xaml;ViewDishWindow.xaml;ViewRestWindow.xaml;
+
+False
+

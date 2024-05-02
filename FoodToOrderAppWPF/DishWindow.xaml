@@ -1,0 +1,45 @@
+﻿<Window x:Class="FoodToOrderAppWPF.DishWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FoodToOrderAppWPF"
+        mc:Ignorable="d"
+        Title="DishWindow" Height="450" Width="800" Background="LightGray">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Franklin Gothic"/>
+            <Setter Property="Foreground" Value="RoyalBlue"/>
+        </Style>
+
+    </Window.Resources>
+    <Grid HorizontalAlignment="Center">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="250"/>
+                <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="0" Padding="10" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Left" >MENU</TextBlock>
+        <ListBox Grid.Row="1" Name="lstdish" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button Margin="5" Style="{StaticResource SubmitButtonStyle}" Grid.Row="2" Click="AddToCart_Click" Content="Add To Cart">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="6"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Grid.Row="3" Margin="5" Content="Back" Click="RestOptions" Style="{StaticResource SubmitButtonStyle}">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="6"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>
